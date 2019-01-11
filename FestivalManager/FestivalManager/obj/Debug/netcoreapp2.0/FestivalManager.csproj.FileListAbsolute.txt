@@ -1,0 +1,11 @@
+C:\Users\Viki\source\repos\FestivalManager_Nasko\FestivalManager\obj\Debug\netcoreapp2.0\FestivalManager.csprojAssemblyReference.cache
+C:\Users\Viki\source\repos\FestivalManager_Nasko\FestivalManager\obj\Debug\netcoreapp2.0\FestivalManager.csproj.CoreCompileInputs.cache
+C:\Users\Viki\source\repos\FestivalManager_Nasko\FestivalManager\obj\Debug\netcoreapp2.0\FestivalManager.AssemblyInfoInputs.cache
+C:\Users\Viki\source\repos\FestivalManager_Nasko\FestivalManager\obj\Debug\netcoreapp2.0\FestivalManager.AssemblyInfo.cs
+C:\Users\Viki\source\repos\FestivalManager_Nasko\FestivalManager\bin\Debug\netcoreapp2.0\FestivalManager.deps.json
+C:\Users\Viki\source\repos\FestivalManager_Nasko\FestivalManager\bin\Debug\netcoreapp2.0\FestivalManager.runtimeconfig.json
+C:\Users\Viki\source\repos\FestivalManager_Nasko\FestivalManager\bin\Debug\netcoreapp2.0\FestivalManager.runtimeconfig.dev.json
+C:\Users\Viki\source\repos\FestivalManager_Nasko\FestivalManager\bin\Debug\netcoreapp2.0\FestivalManager.dll
+C:\Users\Viki\source\repos\FestivalManager_Nasko\FestivalManager\bin\Debug\netcoreapp2.0\FestivalManager.pdb
+C:\Users\Viki\source\repos\FestivalManager_Nasko\FestivalManager\obj\Debug\netcoreapp2.0\FestivalManager.dll
+C:\Users\Viki\source\repos\FestivalManager_Nasko\FestivalManager\obj\Debug\netcoreapp2.0\FestivalManager.pdb
